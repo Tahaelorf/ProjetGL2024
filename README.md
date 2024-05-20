@@ -8,5 +8,9 @@ Dans ce projet Python, nous avons construit une application web de gestion de st
 Implémentation:
 
 Front end :  HTML/CSS/Javascript/Bootstrap
+
+
 Backend : Python et Flask
+
+
 Base de données : MySQL
